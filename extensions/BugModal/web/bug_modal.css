@@ -262,6 +262,10 @@ input[type="number"] {
     display: inline;
 }
 
+#field-status_summary .bug-type-label {
+  margin-right: 8px;
+}
+
 #status-assignee, #status-needinfo {
     margin-left: 8px;
 }
